@@ -98,4 +98,27 @@ In my Hospital Analytics project, I analyzed hospital admission and billing data
 - Performed data cleaning by combining first and last names using CONCAT() and modified the Billing_Amount column data type from INT to BIGINT.
 - Identified the year with the highest number of patient admissions and determined the most common diagnosis.
 
+**PYHTON**
+**Python Hospital Analytics Project**
+- Imported the NumPy and Pandas libraries and loaded the hospital dataset from a CSV file.
+- Performed data exploration by checking data types, column names, dataset dimensions, and verified that there were no missing values.
+- Combined the first name and last name columns into a single patient name column for better readability.
+- Calculated the total number of rows, columns, and patients in the dataset.
+- Analyzed total revenue and average billing amount, along with revenue segmented by Department, Admission Type, Diagnosis, Payment Method, Gender, Month, and Year.
+- Counted patients based on Department, Admission Type, Diagnosis, Gender, Discharge Status, Month, and Year.
+- Identified the maximum and minimum bill amounts and the oldest and youngest patients.
+- Compared admissions and revenue across different years and analyzed monthly revenue trends.
+- Calculated the average hospital stay duration using admission and discharge dates.
+- Performed diagnosis analysis and found that Pneumonia was the most common reason for patient admissions.
+- Computed gender-wise average and total billing amounts.
+- Identified the top diagnoses by revenue and the patients with the highest billing amounts.
+**Tools & Concepts Used
+Python
+Pandas
+NumPy
+Data Cleaning
+Data Aggregation (groupby, value_counts)
+Date-Time Analysis
+Descriptive Statistics
+Business Insights
 
