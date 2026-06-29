@@ -81,9 +81,7 @@ The dataset contains hospital-related information such as:
 * Plan staffing requirements based on admission trends.
 * Use demographic insights to improve patient services.
 
-
-
-  **SQL**
+**SQL**
 Hospital Analytics Project (sql)
 
 In my Hospital Analytics project, I analyzed hospital admission and billing data using SQL to extract meaningful insights.
