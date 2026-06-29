@@ -86,16 +86,16 @@ Hospital Analytics Project (sql)
 
 In my Hospital Analytics project, I analyzed hospital admission and billing data using SQL to extract meaningful insights.
 
-Calculated the total number of patients and analyzed the gender distribution.
-Analyzed the average, minimum, and maximum age of patients.
-Examined patient admissions by admission type, year, and month to identify admission trends.
-Analyzed the number of patients by diagnosis and department to understand disease patterns and departmental workload.
-Calculated the average billing amount, total billing amount, and total hospital revenue.
-Analyzed billing based on payment method, admission type, and department.
-Identified the top 5 highest and lowest billing patients, along with patients who paid the maximum and minimum bills.
-Used a CASE statement to categorize billing amounts into High, Medium, and Low billing groups.
-Applied window functions such as LAG() and LEAD() to compare billing amounts with previous and next records.
-Performed data cleaning by combining first and last names using CONCAT() and modified the Billing_Amount column data type from INT to BIGINT.
-Identified the year with the highest number of patient admissions and determined the most common diagnosis.
+- Calculated the total number of patients and analyzed the gender distribution.
+- Analyzed the average, minimum, and maximum age of patients.
+- Examined patient admissions by admission type, year, and month to identify admission trends.
+- Analyzed the number of patients by diagnosis and department to understand disease patterns and departmental workload.
+- Calculated the average billing amount, total billing amount, and total hospital revenue.
+- Analyzed billing based on payment method, admission type, and department.
+- Identified the top 5 highest and lowest billing patients, along with patients who paid the maximum and minimum bills.
+- Used a CASE statement to categorize billing amounts into High, Medium, and Low billing groups.
+- Applied window functions such as LAG() and LEAD() to compare billing amounts with previous and next records.
+- Performed data cleaning by combining first and last names using CONCAT() and modified the Billing_Amount column data type from INT to BIGINT.
+- Identified the year with the highest number of patient admissions and determined the most common diagnosis.
 
 
